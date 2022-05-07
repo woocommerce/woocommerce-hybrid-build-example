@@ -1,4 +1,4 @@
-# woocommerce-hybrid-build-example
+# WooCommerce Hybrid Build Process Example
 
 To integrate an existing plugin with modern WooCommerce features, such as WooCommerce Analytics, or WooCommerce Blocks, you will usually need to write modern JavaScript and/or React. Modifying an existing plugin to build these new resources can be challenging. If you are using a task runner like Grunt to build your plugin's assets, you might be wondering if there is away to build upon what you already have, instead of creating a new build process from scratch. There answer is that you can.
 
