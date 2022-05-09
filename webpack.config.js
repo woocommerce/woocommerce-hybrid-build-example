@@ -34,11 +34,6 @@ module.exports = {
     },
     optimization: {
         ...defaultConfig.optimization,
-        splitChunks: {
-            cacheGroups: {
-                default: false
-            }
-        },
         minimize: false // Handled by Grunt.
     },
     plugins: [
