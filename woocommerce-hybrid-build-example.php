@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: WooCommerce Hybrid Build Process Example.
+* Plugin Name: WooCommerce Hybrid Build Process Example
 * Plugin URI: https://woocommerce.com/
 * Description: An example that illustrates how you can use 'wp-scripts' to build modern JavaScript as part of an existing build process based on Grunt.
 * Version: 1.0.0
